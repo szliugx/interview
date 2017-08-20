@@ -1,3 +1,4 @@
+```
 一、PHP核心技术
 1.写出一个能创建多级目录的PHP函数（新浪网技术部）
 2.写出smarty模板的特点（新浪网技术部）
@@ -73,3 +74,4 @@ RewriteRule./index.php[L]
 59.Warning:Cannot modify header information-headers already sent by(output started at D:\src\init.php:7)in D:\src\init.php on line10通常什么情况下php会报该警告信息？(卓望)
 60.写出你所知道的字符串和数组相关的php原生函数，并说明
 61.写出你熟悉的shell命令
+```

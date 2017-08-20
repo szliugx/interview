@@ -1,3 +1,4 @@
+```
 一、PHP核心技术
 1.写出一个能创建多级目录的PHP函数（新浪网技术部）
 <?php
@@ -547,3 +548,5 @@ RewriteRule./index.php[L]的意思是把所有的请求都给index.php处理。
 
 59.Warning:Cannot modify header information-headers already sent by(output started at D:\src\init.php:7)in D:\src\init.php on line10通常什么情况下php会报该警告信息？(卓望)
 一般是在header、set_cookie以及session_start函数前面有输出（包括空格）的情况下，会报该警告信息
+
+```
